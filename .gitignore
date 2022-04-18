@@ -1,5 +1,6 @@
 *.csv
 *.html
+*.txt
 settings.json
 test.ipynb
 .DS_Store
