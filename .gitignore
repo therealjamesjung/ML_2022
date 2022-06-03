@@ -5,3 +5,4 @@ settings.json
 test.ipynb
 .DS_Store
 *.avi
+*.json
